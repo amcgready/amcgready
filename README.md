@@ -7,9 +7,20 @@ Welcome to my GitHub profile! I’m a passionate developer interested in modern 
   <img src="https://img.shields.io/badge/Local%20Time-Pacific%20Time-blueviolet?style=flat-square" alt="Local Time"/>
 </p>
 
----
+<p align="center">
 
-## 🏆 Achievements
+  <!-- Shields.io "social" style -->
+  <a href="https://linkedin.com/in/amcgready" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn Social"/>
+  </a>
+  <a href="https://twitter.com/PhtmRaven" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?logo=x&style=social" alt="X Social"/>
+  </a>
+  <br/><br/>
+
+</p>
+
+## 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amcgready&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -28,8 +39,6 @@ Welcome to my GitHub profile! I’m a passionate developer interested in modern 
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"/>
 </p>
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -38,19 +47,6 @@ Welcome to my GitHub profile! I’m a passionate developer interested in modern 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amcgready&theme=radical" alt="amcgready's GitHub streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amcgready&layout=compact&theme=radical" alt="amcgready's Top Languages" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/amcgready" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/PhtmRaven" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 ---
