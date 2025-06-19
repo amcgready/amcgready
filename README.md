@@ -2,18 +2,31 @@
 
 Welcome to my GitHub profile! I’m a passionate developer interested in modern web and software development. I love building cool projects, learning new technologies, and collaborating with others.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amcgready&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Local%20Time-Pacific%20Time-blueviolet?style=flat-square" alt="Local Time"/>
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amcgready&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🚀 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"/>
+</p>
 
 ---
 
@@ -24,15 +37,21 @@ Welcome to my GitHub profile! I’m a passionate developer interested in modern 
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amcgready&theme=radical" alt="amcgready's GitHub streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amcgready&theme=radical" alt="amcgready's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amcgready&layout=compact&theme=radical" alt="amcgready's Top Languages" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/amcgready)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/PhtmRaven)
+<p align="center">
+  <a href="https://linkedin.com/in/amcgready" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/PhtmRaven" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
