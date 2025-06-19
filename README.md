@@ -7,16 +7,25 @@ Welcome to my GitHub profile! I’m a passionate developer interested in modern 
   <img src="https://img.shields.io/badge/Local%20Time-Pacific%20Time-blueviolet?style=flat-square" alt="Local Time"/>
 </p>
 
-  <!-- Shields.io "social" style -->
-  <p align="center">
+<p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/amcgready" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn Social"/>
-  <a href="https://twitter.com/PhtmRaven" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/PhtmRaven?label=Follow%20%40PhtmRaven&style=social" alt="Twitter Follow"/>  
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"/>
   </a>
-  <br/><br/>
-  </p>
-    
+  <!-- X / Twitter -->
+  <a href="https://twitter.com/PhtmRaven" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?logo=x&style=social" alt="X"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/amcgready" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=social" alt="GitHub"/>
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.gg/hdDj4aZTVf" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&style=social" alt="Discord"/>
+  </a>
+</p>
+
 ## 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amcgready&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
