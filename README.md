@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate developer interested in modern 
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amcgready&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m a passionate developer interested in modern 
 
 ---
 
-## 📈 GitHub Stats and Widgets
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amcgready&show_icons=true&theme=radical" alt="amcgready's GitHub stats" />
